@@ -5,6 +5,11 @@
   box-sizing: border-box;
 }
 
+.header {
+  margin-bottom: 4rem;
+  text-align: center;
+}
+
 .main {
   padding-top: 1rem;
   padding-bottom: 2rem;
